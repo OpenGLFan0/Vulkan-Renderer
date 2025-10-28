@@ -1054,7 +1054,7 @@ glfwInit();
 			 VK_PIPELINE_BIND_POINT_GRAPHICS,
 			 pipe);
 
-		vkCmdDraw(cmd_buffers[i],3,1,0,0);
+		vkCmdDraw(cmd_buffers[i],6,1,0,0);
 
 		vkCmdEndRenderPass(cmd_buffers[i]);
 
