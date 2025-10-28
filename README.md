@@ -1,3 +1,4 @@
+Setup Instructions before starting the Project:
 Linux:
 Install Clang, ShaderC , GPU Driver, Vulkan Driver for that GPU, Install Vulkan Libaries Including Validation Layers, Loader, Headers, A code editor your comfortable with and a Terminal, GLFW.
 
